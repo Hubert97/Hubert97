@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hubert97
 - 👀 I’m interested in Software Engineering, Robotics and 3D printing
 - 🌱 I’m currently learning Embedded Software Design
-- 💞️ I’m looking to collaborate on Mobile Robotics Platform
 - 📫 How to reach me hubert.kowalski10@gmail.com
 
 <!---
