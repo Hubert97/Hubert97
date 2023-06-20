@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Hubert97
-- 👀 I’m interested in Software Engineering, Robotics and 3D printing
-- 🌱 I’m currently learning Embedded Software Design
-- 📫 How to reach me hubert.kowalski10@gmail.com
+Hi, I’m @Hubert97
+I’m interested in Software Engineering, Robotics and 3D printing
 
 <!---
 Hubert97/Hubert97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
